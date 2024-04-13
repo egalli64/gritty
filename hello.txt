@@ -1,2 +1,2 @@
 Hello, Git!
-A change from another branch
+A fix in the main branch
