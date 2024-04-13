@@ -1,1 +1,2 @@
+# comments in .gitignore are ignored by git
 /local-only/
